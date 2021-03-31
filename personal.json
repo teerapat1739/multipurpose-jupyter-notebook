@@ -1,0 +1,10 @@
+{
+    "statusCode": 200,
+    "data": {
+        "fullname": "Teerapat Thong-O",
+        "age": "36",
+        "tel": "0909009000",
+        "citizen_id": "1616611616161"
+    },
+    "timestamp": "2021-03-18T09:17:57.22"
+}
